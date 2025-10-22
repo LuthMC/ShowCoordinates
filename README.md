@@ -8,6 +8,11 @@
 
 ---
 
+### ⚙️ Commands
+```
+• use /coords or /coordinate to toggle cordinate display
+```
+
 ### 📍 How To Use
 ```
 • Download the ShowCoordinates plugin.
