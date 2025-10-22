@@ -1,6 +1,6 @@
 name: ShowCoordinates
 main: Luthfi\ShowCoordinates\Main
-version: 1.0.0
+version: 1.0.1
 api: 5.0.0
 author: [Luthfi, Vasync]
 website: https://github.com/LuthMC/ShowCoordinates
