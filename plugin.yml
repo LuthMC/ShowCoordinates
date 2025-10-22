@@ -1,6 +1,18 @@
 name: ShowCoordinates
 main: Luthfi\ShowCoordinates\Main
-version: 1.0.0
+version: 1.0.1
 api: 5.0.0
 author: [Luthfi, Vasync]
 website: https://github.com/LuthMC/ShowCoordinates
+
+commands:
+  coords:
+    description: Toggle coordinate
+    usage: /coords
+    aliases: ["coor", "coordinate"]
+    permission: showcoordinates.use
+
+permissions:
+  showcoordinates.use:
+    description: Allow players to toggle coordinates
+    default: true
